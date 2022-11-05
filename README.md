@@ -1,4 +1,4 @@
-##Expo app that requests news data from the newsapi.org API
+***Expo app that requests news data from the newsapi.org API
 
 Entering API key on startup | Main view | Search option | Single article opened
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
